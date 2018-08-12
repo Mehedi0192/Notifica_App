@@ -1,0 +1,1 @@
+<h1 style="color: green; margin-top: 25%; font-weight: bolder;" align="center">Welcome To DIU Notifica Admin Panel</h1>
